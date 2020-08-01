@@ -1,6 +1,6 @@
 #### TODO
 
-
+```
 [v] create API
 [v] Install package STACK (express, sequelize, postgre, jsonwebtoken, bcrypt)
 [v] Install devDependencies (dotenv)
@@ -16,3 +16,4 @@
 [] test in insomnia
 [] create testing coverage
 []
+```

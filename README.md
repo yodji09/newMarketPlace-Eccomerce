@@ -5,8 +5,8 @@
 [v] Install package STACK (express, sequelize, postgre, jsonwebtoken, bcrypt)
 [v] Install devDependencies (dotenv)
 [v] Setup API
-[] generate model
-[] generate migration
+[v] generate model
+[v] generate migration
 [v] setup helpers
 [] create Routes
 [] create controller
